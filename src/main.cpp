@@ -27,7 +27,7 @@ constexpr uint32_t TAP_MINIMUM_GAP_MILLISECONDS = 120;
 constexpr uint32_t TAP_MAXIMUM_GAP_MILLISECONDS = 500;
 constexpr uint32_t ACTIVATE_LOCKOUT_MILLISECONDS = 800;
 
-constexpr bool DEBUG = true;
+constexpr bool DEBUG = false;
 constexpr uint16_t LOG_EVERY_N_SAMPLES = 1;
 constexpr float LOG_ONLY_WHEN_DYNAMIC_ABOVE_G = 0.0f;
 
